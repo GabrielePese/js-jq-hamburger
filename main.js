@@ -1,3 +1,3 @@
-$("a").click (function(){
-  $( "a" ).addClass ("hamburger-menu")
+$(".header-right a").click (function(){
+  $(".hamburger-menu").addClass ("active")
 });
