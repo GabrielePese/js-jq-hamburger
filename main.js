@@ -2,6 +2,6 @@ $(".header-right a").click (function(){
   $(".hamburger-menu").addClass ("active")
 });
 
-$(".hamburger-menu").click (function(){
+$(".fa-times").click (function(){
   $(".hamburger-menu").removeClass ("active")
 });
