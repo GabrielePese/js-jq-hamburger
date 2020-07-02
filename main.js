@@ -1,3 +1,3 @@
 $("a").click (function(){
-  $( this ).addClass ("hamburger-menu")
+  $( "a" ).addClass ("hamburger-menu")
 });
